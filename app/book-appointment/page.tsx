@@ -3,6 +3,8 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 import CalendarClient from "@/components/booking/calendar-client"
 
+// New
+
 export default function BookAppointmentPage() {
   return (
     <div className="min-h-screen bg-background">
